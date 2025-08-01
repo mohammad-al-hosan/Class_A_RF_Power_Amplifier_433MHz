@@ -14,6 +14,9 @@ This project presents the design and simulation of a **Class-A Common-Emitter RF
 - **Power Gain**: 10.11 dB  
 - **P<sub>sat</sub>**: 18.01 dBm  
 - **PAE**: 7.52%
+- 
+## 📈 Presentation Video
+https://youtu.be/OEaMlSve1Es
 
 ## 📁 Repository Contents
 
