@@ -1,4 +1,6 @@
-# Class-A RF Power Amplifier @ 433 MHz (BUET Final Project - EEE 466)
+# Class-A RF Power Amplifier @ 433 MHz 
+
+**Final Year Project — EEE 466, BUET**
 
 This project presents the design and simulation of a **Class-A Common-Emitter RF Power Amplifier** operating at **433 MHz**, completed as part of the **EEE 466: Analog Integrated Circuits and Design Laboratory** course at **Bangladesh University of Engineering and Technology (BUET)**.
 
